@@ -33,7 +33,7 @@ PUT /api/BO/UpdateBO
 
 
 ### Business Objects 
-Web Servislerinden kullanılacak olan BO (Business Object) isimleri fatura modülü için InvoiceBO, sipariş modülü için OrderReceiptBO kullanılmaktadır. Tüm BO isimlerine Liv Erp
+Web Servislerinden kullanılacak olan BO (Business Object) isimleri fatura modülü için InvoiceBO, sipariş modülü için OrderReceiptBO kullanılmaktadır. Tüm BO isimlerine Live Erp
 yazılımı içinden Ayarlar-->Sentez İş Nesnelerine tıklanarak ulaşılabilmektedir.
 
 ### Veritabanı Tablo Ve Alan Adaları
